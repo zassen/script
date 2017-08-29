@@ -1,4 +1,4 @@
-!# /bin/bash
+#! /bin/bash
 wget -N --no-check-certificate https://github.com/91yun/serverspeeder/raw/master/serverspeeder-v.sh  
 source ./serverspeeder-v.sh Debian 7 4.1.0-x86_64-linode59 x64 3.10.66.25 serverspeeder_2845 
 wget --no-check-certificate -O ./kcptun_for_ss_ssr-install.sh https://raw.githubusercontent.com/onekeyshell/kcptun_for_ss_ssr/master/kcptun_for_ss_ssr-install.sh
